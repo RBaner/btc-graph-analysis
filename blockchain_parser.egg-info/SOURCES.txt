@@ -1,0 +1,5 @@
+blockchain_parser.egg-info/PKG-INFO
+blockchain_parser.egg-info/SOURCES.txt
+blockchain_parser.egg-info/dependency_links.txt
+blockchain_parser.egg-info/requires.txt
+blockchain_parser.egg-info/top_level.txt
